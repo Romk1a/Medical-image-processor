@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/translation">
+        <file>files_translations/var_29_de_DE.qm</file>
+        <file>files_translations/var_29_en_US.qm</file>
+        <file>files_translations/var_29_es_ES.qm</file>
+        <file>files_translations/var_29_fr_FR.qm</file>
+        <file>files_translations/var_29_ja_JP.qm</file>
+        <file>files_translations/var_29_ru_RU.qm</file>
+        <file>files_translations/var_29_zh_CN.qm</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/break.svg</file>
+        <file>icons/color.svg</file>
+        <file>icons/reset.svg</file>
+        <file>icons/undo.svg</file>
+        <file>icons/zoom_in.svg</file>
+        <file>icons/zoom_out.svg</file>
+        <file>icons/file.svg</file>
+        <file>icons/settings.svg</file>
+    </qresource>
+</RCC>
